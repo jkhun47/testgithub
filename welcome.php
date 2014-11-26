@@ -61,6 +61,7 @@ var qResult = window.open( url, nTarget, "width="+nWidth+", height="+nHeight+",l
 </head>
 
 <body background="../common_img/back_body.gif" onLoad="MM_preloadImages('common_img/top_menu01_ov.gif','common_img/top_menu02_ov.gif','common_img/top_menu03_ov.gif','common_img/top_menu04_ov.gif')">
+<table></table>
 <table width="880" height="100%" border="0" cellspacing="0" cellpadding="0" align="center"  bgcolor="#FFFFFF">
   <tr>
   <td background="../common_img/body_left.gif" width="15"></td>
@@ -288,7 +289,7 @@ var qResult = window.open( url, nTarget, "width="+nWidth+", height="+nHeight+",l
 							</tr>
 							</table></td>
 							</tr>
-							 
+							
 							<!--footer start-->
 									<tr>
 									<td height="90"><?php include "../inc/footer.jsp"?><%@include file="../inc/footer.jsp" %></td>
