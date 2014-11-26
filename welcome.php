@@ -300,6 +300,7 @@ var qResult = window.open( url, nTarget, "width="+nWidth+", height="+nHeight+",l
 	<td background="../common_img/body_right.gif" width="15"></td>
   </tr>
 </table>
+<table></table>
 </body>
 </html>
 
