@@ -288,6 +288,7 @@ var qResult = window.open( url, nTarget, "width="+nWidth+", height="+nHeight+",l
 							</tr>
 							</table></td>
 							</tr>
+							<table></table>
 							 
 							<!--footer start-->
 									<tr>
